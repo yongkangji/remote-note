@@ -2,7 +2,7 @@
 
 I am yong, nice to meet you.
 My OPC project needs a webpage as its storage.
-remote-note-sign-forbid;
+remote-note-sign-allowable;
 
 ### Markdown
 
